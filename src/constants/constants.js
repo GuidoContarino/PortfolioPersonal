@@ -27,7 +27,7 @@ export const projects = [
     image: "/images/PortfolioPersonal.jpg",
     tags: ["ReactJs", "NextJs", "Styled-Components"],
     source: "https://portfolio-personal-gamma.vercel.app/",
-    visit: "https://github.com/GuidoContarino/Portfolio-Guido",
+    visit: "https://github.com/GuidoContarino/PortfolioPersonal",
     id: 2,
   },
   {
