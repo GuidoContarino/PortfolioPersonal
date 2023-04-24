@@ -26,7 +26,7 @@ export const projects = [
       "Este proyecto de Portfolio Personal, que es en el que se encuentra lo agrego, ya que utilizo tecnologías que me encuentro aprendiendo de forma autodidacta y aún no las habia implementado anteriormente en otros proyectos.",
     image: "/images/PortfolioPersonal.jpg",
     tags: ["ReactJs", "NextJs", "Styled-Components"],
-    source: "https://google.com",
+    source: "https://portfolio-personal-gamma.vercel.app/",
     visit: "https://github.com/GuidoContarino/Portfolio-Guido",
     id: 2,
   },
