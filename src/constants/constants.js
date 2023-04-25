@@ -40,6 +40,16 @@ export const projects = [
     visit: "https://github.com/GuidoContarino/BurgerDelivery",
     id: 3,
   },
+  {
+    title: "Weather App",
+    description:
+      "Proyecto sencillo de no más de 200 líneas de código, donde busco mejorar mis habilidades utilizando una Api del tiempo y que los usuarios puedan buscar el clima en su Ciudad/País.",
+    image: "/images/WeatherAPP.jpg",
+    tags: ["ReactJs", "Api OpenWeatherApp"],
+    source: "https://weather-app-two-sepia.vercel.app/",
+    visit: "https://github.com/GuidoContarino/Weather-App",
+    id: 4,
+  },
 ];
 
 export const TimeLineData = [
