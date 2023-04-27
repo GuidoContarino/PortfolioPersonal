@@ -17,7 +17,7 @@ export const projects = [
     image: "/images/disney+clone.jpg",
     tags: ["ReactJs", "Styled-Components", "Firebase"],
     source: "https://clonedisneyplus1.web.app/",
-    visit: "https://github.com/GuidoContarino/CloneDiney-",
+    visit: "https://github.com/GuidoContarino/CloneDisney-",
     id: 1,
   },
   {
