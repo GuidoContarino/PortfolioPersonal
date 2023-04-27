@@ -16,7 +16,7 @@ export const projects = [
       "Primer proyecto que hice utilizando ReactJs, en donde implemente mis conocimientos de mis cursos y decidí hacer un Clone de Disney+ para poder complementar diferentes tecnologias en un mismo proyecto.",
     image: "/images/disney+clone.jpg",
     tags: ["ReactJs", "Styled-Components", "Firebase"],
-    source: "https://google.com",
+    source: "https://clonedisneyplus1.web.app/",
     visit: "https://github.com/GuidoContarino/CloneDiney-",
     id: 1,
   },
