@@ -24,7 +24,7 @@ const Hero = (props) => (
         <Button
           onClick={() =>
             (window.location =
-              "https://drive.google.com/file/d/1TbEEOXz7vOpJNorUZAzyxiZukL1wXvDT/view?usp=sharing")
+              "https://drive.google.com/file/d/1NhnYGzMR3rRH-042gE3ds4eMCI5YZEYo/view")
           }
         >
           Ver Cv
