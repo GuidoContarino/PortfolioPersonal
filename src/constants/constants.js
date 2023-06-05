@@ -50,6 +50,15 @@ export const projects = [
     visit: "https://github.com/GuidoContarino/Weather-App",
     id: 4,
   },
+  {
+    title: "Ecommerce Quimica Gr",
+    description:"Ecommerce para Quimica Gr, en donde utilizo diferentes funciones que anteriormente no se habian utilizado en poryectos, como por ejemplo un buscador y filtrador de porductos, entre otras. Ademas de utilizar tecnologias nuevas como lo es TypeScript y Chakra Ui." ,   
+    image: "/images/QuimicaGr.jpg",
+    tags: ["NextJs", "TypeScript", "ChakraUI"],
+    source: "https://ecommerce-tau-gilt.vercel.app/",
+    visit: "https://github.com/GuidoContarino/Ecommerce",
+    id: 5,
+  },
 ];
 
 export const TimeLineData = [
